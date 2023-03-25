@@ -1,14 +1,13 @@
 {
-  "name": "nodejs-complete-guide",
+  "name": "mongo",
   "version": "1.0.0",
-  "description": "Complete Node.js Guide",
+  "description": "mongo cart",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js",
-    "start-server": "node app.js"
+    "start": "nodemon app.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "vishal yadav",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"
@@ -23,5 +22,13 @@
     "mysql2": "^1.6.1",
     "pug": "^2.0.3",
     "sequelize": "^5.0.0-beta.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishalyadav0507/mongoDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vishalyadav0507/mongoDB/issues"
+  },
+  "homepage": "https://github.com/Vishalyadav0507/mongoDB#readme"
 }
